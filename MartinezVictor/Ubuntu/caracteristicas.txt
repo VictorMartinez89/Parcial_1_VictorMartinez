@@ -1,0 +1,4 @@
+Ubuntu es un sistema operativo derivado de Unix, 
+Es Open-Source indicando que hay una comunidad activa que contribuye a su mantenimiento
+Es un sistema bastante liviano y se caracteriza por no ser tan bonita visualmente
+
